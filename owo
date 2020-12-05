@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR"
+<head>
+    <title>qual a diferença disso</title>
+</head>
+
+<body>
+    <h4>olha minha lista que bonita</h4>
+    <ol>
+        <li>Primeiro item</li>
+        <li>wowowowowo</li>
+        <li>Terceiro item?</li>
+        <li>wow são muitos itens</li>
+    </ol>
+    <h4>olha a lista dele que feia</h4>
+    <ul>
+        <li>Primeiro item</li>
+        <li>Outro item</li>
+        <li>Mais um item</li>
+        <li>eu tenho poucos itens :(</li>
+    </ul>
+</body>
+</html>
